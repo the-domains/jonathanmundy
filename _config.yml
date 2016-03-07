@@ -1,0 +1,28 @@
+name: jonathanmundy
+favicon: null
+layout_spectrum: 0.14600617974065244
+typography_spectrum: 0.06044801976531744
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4620036669075489
+  lightness: 0.9666425650939345
+  saturation: 0.3410399230197072
+  rhythmicContrast: 0.9826347643975168
+purpose: []
